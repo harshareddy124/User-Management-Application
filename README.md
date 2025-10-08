@@ -1,2 +1,2 @@
 # User-Management-Application
-I am developing java user Management Application system.
+Spring Boot Project is a User Management Systen for admins to perform operations on users.
